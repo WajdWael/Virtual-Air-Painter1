@@ -9,12 +9,12 @@ First when you open it, it includes functionality for showing the instructions a
 
 ## TOOLS 🛠️
 3 Files using "python"
-File 1: HandTrackingModule.py
-  This file contains functions for detecting and tracking hand landmarks using Mediapipe
-File 2: Main.py
-  The file displays instructions and controls the painting interface, using hand gestures to select colors, draw, erase, and paint in the air without brushes
-File 3: Virtual-Painting.ipynb.py
-  The code integrates hand tracking to detect finger positions and allows for selecting tools (like colors) and drawing/erasing on the canvas.
+
+- File 1: HandTrackingModule.py: This file contains functions for detecting and tracking hand landmarks using Mediapipe
+
+- File 2: Main.py: The file displays instructions and controls the painting interface, using hand gestures to select colors, draw, erase, and paint in the air without brushes
+
+- File 3: Virtual-Painting.ipynb.py: The code integrates hand tracking to detect finger positions and allows for selecting tools (like colors) and drawing/erasing on the canvas.
 
 
 # Here are the libraries USED in the project: 📚🖐️
