@@ -4,11 +4,10 @@ Whatever you imagine, just move your hand and bring your creativity to life, dra
 Experience the magic of painting without limits!
 
 ## ABOUT APP
-First when you open it, it includes functionality for showing the instructions at the start and contains hand gestures to control the painting interface. The instructions will pop up when the program starts, guiding the user to interact with the air painter Then you can grab your index finger with your middle finger together to choose whatever color you want. If you prefer, you can also grab the eraser. Once you've selected your color, you can unleash your creativity and draw in the air with just your index finger—no brushes needed! 
-## Enjoy the experience!
+First when you open it, it includes functionality for showing the instructions at the start and contains hand gestures to control the painting interface. The instructions will pop up when the program starts, guiding the user to interact with the air painter Then you can grab your index finger with your middle finger together to choose whatever color you want. If you prefer, you can also grab the eraser. Once you've selected your color, you can unleash your creativity and draw in the air with just your index finger—no brushes needed!, Enjoy the experience!
 
 ## TOOLS 🛠️
-# 3 Files using "python"
+3 Files using "python"
 # File 1: HandTrackingModule.py
   This file contains functions for detecting and tracking hand landmarks using Mediapipe
 # File 2: Main.py
