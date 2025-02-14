@@ -1,7 +1,7 @@
 ![Screenshot 2025-02-14 085550](https://github.com/user-attachments/assets/0b9a1d79-b2a1-492f-ae09-07ff91d697ab)
 ### Virtual Air Paint 🎨✨☝️
-# Whatever you imagine, just move your hand and bring your creativity to life, draw in the air and watch your imagination take shape before your eyes. 
-# Experience the magic of painting without limits!
+Whatever you imagine, just move your hand and bring your creativity to life, draw in the air and watch your imagination take shape before your eyes. 
+Experience the magic of painting without limits!
 
 ## ABOUT APP
 First when you open it, it includes functionality for showing the instructions at the start and contains hand gestures to control the painting interface. The instructions will pop up when the program starts, guiding the user to interact with the air painter Then you can grab your index finger with your middle finger together to choose whatever color you want. If you prefer, you can also grab the eraser. Once you've selected your color, you can unleash your creativity and draw in the air with just your index finger—no brushes needed! 
